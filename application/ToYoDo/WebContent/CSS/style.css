@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+.body-style {
+	font-family: 'Nunito';
+}
+.custom-table {
+	width: 90%;
+	border-spacing: 0px;
+	table-layout: fixed;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Nunito';
+}
+
+.custom-th {
+	color: #8080ff;
+	border: 1px solid black;
+	font-family: 'Nunito';
+}
+
+.custom-td {
+	border: 1px solid black;
+	word-wrap: break-word;
+	font-family: 'Nunito';
+}
+
+.shadow {
+	box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15);
+}
