@@ -1,6 +1,6 @@
 # CodeFury-JAVATAR
 
-**For the complete git history, please refer to github.com/hrishibhattu/Code-Fury-Internal and github.com/hrishibhattu/Code-Fury-Internal-2**
+**For the complete git history, please refer to github.com/hrishibhattu/CodeFury-Internal and github.com/hrishibhattu/CodeFury-Internal-2**
 We kept this repo to submit our final code, and used the "Internal" repos to collaborate. You will find all our code changes, commits, branches there.
 
 ## Project Description
