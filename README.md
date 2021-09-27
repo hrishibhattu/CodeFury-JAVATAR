@@ -28,7 +28,6 @@ A full-featured Order Processing System. Provides functionality to
 - Apache Tomcat 9.0.0
 
 ## Directory Structure
-
 ```elixir
 .
 ├── README.md
