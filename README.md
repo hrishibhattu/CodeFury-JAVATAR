@@ -185,6 +185,8 @@ A full-featured Order Processing System. Provides functionality to
 ## Installation instructions
 
 1. Clone Project on machine.
-2. Import project directory `./application/ToYoDo` into Eclipse.
-3. Configure Buildpath - add all the jars from `.application/ToYoDo/WebContent/WEB-INF/lib/jstl-1.2.jar` as Add External Jar
-4. Create server to deploy code.
+2. Import the SQL dump provided in `./application` into your SQL client to create all tables.
+3. Import project directory `./application/ToYoDo` into Eclipse.
+4. Configure Buildpath - add all the jars from `.application/ToYoDo/WebContent/WEB-INF/lib/` as Add External Jar.
+5. Create server to deploy code.
+6. Run on server.
